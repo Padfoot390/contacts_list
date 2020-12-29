@@ -1,6 +1,7 @@
 # contacts_list
 
-A new Flutter project.
+A new Flutter project. 
+Here I am trying to learn Flutter by build a simple application which will contain all the people I know.
 
 ## Getting Started
 
